@@ -1,0 +1,76 @@
+Como Gerar e Transmitir o Arquivo de Inventário para o escritório de Contabilidade?
+	Acesso o Sistema Administrativo.
+	Acesse o Menu Arquivo, Fiscais, Emissão do Inventário
+	Abrirá a tela "Emissão do Inventário":
+	Informe o Mês e Ano.
+	Clique em "Gerar" e após confirme em "OK" a mensagem de atenção.
+	Ao pedir confirmação de envio para o contador, clique em "Sim" para enviar ao contador ou em "Não" para não enviar o arquivo.
+
+Como Imprimir Inventário de Produtos?
+	Acesse o Sistema Administrativo
+	Acesse o menu Relatório, Movimentação, Inventário
+	Na tela do Relatório selecione o destino do relatório como "Janela".
+	Clique no botão verde.
+	Para ver o total do inventário, clique no botão "Última Página", o total aparecerá após o último produto.
+	Para imprimir, clique no ícone com a imagem da impressora (para a página atual clique no ícone da impressora e um número 1 juntos no mesmo botão ou para imprimir o documento inteiro clique no ícone que contenha apenas uma impressora na imagem do botão).
+
+Como imprimir Produtos Monofásicos?
+	Acesse o Sistema Administrativo
+	Acesse o Menu Relatórios, Movimentação, Vendas, Vendas de Produtos
+	Na tela "Venda Produtos" informe a Data Inicial e Final.
+	Marque as opções "Agrupar Produto" e "Somente Monofasico".
+	Clique no botão Ok para gerar o arquivo.
+	Ao pedir confirmação de envio para o contador, clique em "Sim" para enviar ao contador ou em "Não" para não enviar o arquivo.
+
+Como visualizar e alterar Dados da Contabilidade?
+	Acesse o Sistema Administrativo
+	Acesse o Menu Arquivo, Configurações, Contabilidade/SPED (Abrirá a tela "Contabilidade/SPED")
+	Na tela "Contabilidade/SPED" você tem acesso aos dados do Contador e escritório de contabilidade, tais como: Nome, CEP, Estado, Cidade e E-mail.
+
+Como visualizar e editar os dados do E-mail Próprio para envio de emails automáticos do sistema?
+	Acesse o sistema Administrativo através do menu: Arquivo, Configurações, E-mail Próprio (Abrirá a tela "Email Próprio").
+	Na tela "Email Próprio" você pode alterar qualquer um dos campos (Email Remetente, Nome Remetente, Cliente, Porta, SSL, Usuário, Senha, HTML) e logo após salvar.
+	Para confirmar e gravar os dados clique no botão "Salvar".
+
+Envio XML - Cupons
+Sistema de Cupom Fiscal
+Menu: Consultas > Vendas Resumidas
+Na tela "Vendas - Resumidas":
+Informe o período Inicial e Final.
+Em "Destino do relatório", escolha "Contabilidade".
+Clique no botão confirmar (verde).
+Clique em "OK" nas mensagens de atenção.
+
+Envio XML - Notas
+Utilitário de NFe:
+Sistema Administrativo: Clique no botão "Utilitário de Nfe".
+Filtro:
+Na janela "Utilitário de Nfe", informe o período (Inicial e Final).
+No campo "Situação da NFe", escolha "2 - Autorizada".
+Clique em "Filtrar".
+Seleção:
+Pressione "Ctrl + T" para selecionar todas as notas.
+Envio por E-mail:
+Clique no botão "E-mail".
+Selecione a opção "Enviar para Contador".
+Clique no botão "Enviar".
+Clique em "OK" nas mensagens de atenção.
+Instalação do Certificado Digital
+Pré-requisitos:
+Tenha o arquivo de instalação do certificado digital (enviado pelo contador com a senha).
+Instalação:
+Execute o arquivo do certificado.
+Siga os passos do "Assistente para Importação de Certificados":
+Deixe selecionado "Usuário Atual" e clique em "Avançar".
+Clique em "Avançar" na tela de arquivo.
+Digite a senha fornecida pelo contador e clique em "Avançar".
+Clique em "Avançar" na tela de repositório.
+Clique em "Concluir".
+Clique em "OK" na mensagem de sucesso.
+Atribuição no Sistema:
+Sistema Administrativo: Menu "Arquivo" > "Configurações" > "Empresa".
+Guia "NFe": Clique na guia "NFe".
+Clique em "Selecionar" ao lado do campo "Certificado Digital".
+Escolha o certificado correto (nome da empresa e validade).
+Clique em "OK".
+Clique em "Salvar" para finalizar.
